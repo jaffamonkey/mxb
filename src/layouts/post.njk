@@ -11,7 +11,7 @@ layout: base
 >
     <header class="post__header">
         <h1 id="{{ title | slug }}-title" class="post__title p-name title" itemprop="headline">{{ title }}</h1>
-        <div class="post__meta">
+        <!-- <div class="post__meta">
 
             <p {% if demo %}class="u-mr2"{% endif %}>
                 <time class="post__date dt-published" itemprop="datePublished" datetime="{{ page.date | dateToISO }}">{{ page.date | readableDate('dd LLL yyyy') }}</time>
@@ -29,7 +29,7 @@ layout: base
             </a>
             {% endif %}
 
-        </div>
+        </div> -->
 
         {% if draft %}
         <div class="post__disclaimer">
@@ -54,18 +54,18 @@ layout: base
 
     
     <div class="post__footer">
-        <div hidden>
+        <!-- <div hidden>
             <a class="u-url" href="{{ page.url | url | absoluteUrl(site.url) }}">{{ title }}</a>
             <p class="h-card p-author">
                 <a class="p-name u-url" rel="author" href="{{ site.url }}">{{ author.name }}</a>
                 <img class="u-photo" src="{{ author.avatar | url | absoluteUrl(site.url) }}" />
             </p>
-        </div>
+        </div> -->
 
         {% if draft %}
             <p class="post__footer-incomplete" aria-hidden="true">&hellip;</p>
         {% else %}
-            <p class="post__footer-info">
+            <!-- <p class="post__footer-info">
                 Published in [{{ tags | join(', ') }}] &sdot; {{ page.date | readableDate('dd LLL yyyy') }} <br/>
                 <a href="{{ site.repo }}/tree/master/{{ page.inputPath }}" title="suggest a change to this post by submitting a PR">Edit this Post</a>
             </p>
@@ -78,14 +78,14 @@ layout: base
                 class="btn btn--mastodon"
             >
                 {% icon "mastodon" %} Follow @{{ author.social.mastodon.name }}
-            </a>
+            </a> -->
         {% endif %}
     </div>
     
 </article>
 
 {% if not draft %}
-<div class="postsection">
+<!-- <div class="postsection">
     <div class="postsection__header">
         <h3 class="postsection__title u-mb0">Webmentions</h3>
         <a href="https://indieweb.org/Webmention" class="postsection__info" target="_blank" rel="noopener noreferrer">
@@ -100,5 +100,5 @@ layout: base
 <div class="postsection">
     <h3 class="postsection__title">Other things I've written</h3>
     {% include 'otherposts.njk' %}
-</div>
+</div> -->
 {% endif %}
