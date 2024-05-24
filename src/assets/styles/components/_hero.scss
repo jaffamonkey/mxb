@@ -33,9 +33,9 @@
     }
 
     &__content {
-        font-size: 1.5rem;
+        font-size: 1rem;
         font-weight: 300;
-        line-height: 1.4;
+        line-height: 1.1;
 
         @include mq(md) {
             font-size: 2rem;
