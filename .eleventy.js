@@ -89,7 +89,7 @@ module.exports = function (config) {
         return collection.getFilteredByGlob(CONTENT_GLOBS.notes).reverse()
     })
 
-    // Collections: Featured Posts
+    // Collections: Services
     config.addCollection('featured', function (collection) {
         return collection
             .getFilteredByGlob(CONTENT_GLOBS.posts)
