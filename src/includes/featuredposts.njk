@@ -10,7 +10,6 @@
                     <picture>
                         <source srcset="{{ imgsrc | setExt('avif') }}" type="image/avif">
                         <source srcset="{{ imgsrc | setExt('webp') }}" type="image/webp">
-                        <source srcset="{{ imgsrc setExt('jpg') }}" type="image/jpeg">
                         <source srcset="{{ imgsrc }}" type="image/jpeg">
                         <img src="{{ imgsrc }}" alt="" width="500" height="500" class="featuredpost__image" />
                     </picture>
