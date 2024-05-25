@@ -1,9 +1,9 @@
 {
     "title": "jaffamonkey",
-    "description": "jaffamonkey is a professional front-end developer based in Vienna, Austria.",
+    "description": "jaffamonkey is a professional Quality Engineer based in Kent, UK.",
     "lang": "en",
-    "locale": "en_US",
-    "domain": "mxb.dev",
-    "url": "https://mxb.dev",
-    "repo": "https://github.com/maxboeck/mxb"
+    "locale": "en_GB",
+    "domain": "jaffamonkey.com",
+    "url": "https://jaffamonkey.com",
+    "repo": "https://github.com/jaffamonkey"
 }
