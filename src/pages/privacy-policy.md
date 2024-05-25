@@ -39,8 +39,7 @@ Antonigasse 55
 A-1170 Vienna  
 Austria -->
 
-If you have any questions or concerns about this,  
-please contact me at <a href="mailto:{{ author.email | obfuscate | safe }}">{{ author.email | obfuscate | safe }}</a>
+If you have any questions or concerns about this, please contact me at <a href="mailto:{{ author.email | obfuscate | safe }}">{{ author.email | obfuscate | safe }}</a>
 
 <!-- ## Official Complaint
 
