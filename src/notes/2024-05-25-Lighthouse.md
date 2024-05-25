@@ -6,6 +6,6 @@ link: "https://elegant-biscotti-25e1e9.netlify.app/sample/"
 tags: link
 ---
 
-It’s an eleventy--generated web site published as an open source repository, to help automate continuous performance measurements using <a href="https://github.com/GoogleChrome/lighthouse" target=""_blank">Lighthouse</a>.
+It’s an eleventy--generated web site published as an open source repository, to help automate continuous performance measurements using Lighthouse.
 
 [https://elegant-biscotti-25e1e9.netlify.app/sample/](Example running checks on my website)
