@@ -5,13 +5,13 @@
     &__photo {
         position: relative;
         display: block;
-        // padding-bottom: 75%;
+        padding-bottom: 75%;
         margin-bottom: 1rem;
 
-        // .responsive-image {
-        //     object-position: 0 50%;
-        //     background-position: left center;
-        // }
+        .responsive-image {
+            object-position: 0 50%;
+            background-position: left center;
+        }
     }
     &__intro {
         max-width: 54rem;
