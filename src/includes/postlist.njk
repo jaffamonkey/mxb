@@ -12,7 +12,7 @@
             </h2>
 
             <div class="postlist__meta">
-                <time class="postlist__date dt-published" datetime="{{ post.date | dateToISO }}">
+                {# <time class="postlist__date dt-published" datetime="{{ post.date | dateToISO }}">
                     {{ post.date | readableDate('dd LLL yyyy') }}
                 </time>
 
@@ -21,7 +21,7 @@
                     <span class="postlist__tags p-category">
                         {{ post.data.tags|join(', ') }}
                     </span>
-                {% endif %}
+                {% endif %} #}
 
                 {% if post.data.draft %}
                     <span aria-hidden="true">&sdot;</span>
