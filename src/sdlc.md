@@ -17,6 +17,7 @@ Engage with users with disabilities, to gather insights and requirements (supris
 A persona in user-centered desig is a personalized fictional character created to represent a user type that might use an app in a similar way. They are based on demographic and behavioural personal information collected from users, qualitative interviews, and participant observation. 
 
 ## UI/UX Design
+
 Apply inclusive design principles following the WCAG POUR ((Perceivable, Operable, Understandable, and Robust) principles, to create wireframes and prototypes. Ensure that design elements such as color contrast, font sizes, and navigation structures are accessible. Most design tools have these checking features. If not run a simple tool to do a pass on the design which will pick up on sizing and color contrast.
 
 With forms, this touches on UX (user experience). Design forms, buttons, and other interactive elements to be easily usable by all users, including those relying on assistive technologies.
@@ -29,9 +30,7 @@ Tools like Axe, WAVE, and Lighthouse help  identify accessibility issues early i
 
 ## Testing
 
-In testing phase, this is when the testing can be more focused on UX, focusing on user journeys through the app. Test frameworks such as Playwright, Espresso and XCUTest have plugins to run screen reader tests, and other UI checks.
-
-Conduct manual testing with assistive technologies such as screen readers (e.g., VoiceOver or NVDA), and voice recognition software. If possible, involve users with disabilities in usability testing to identify practical issues and gather feedback.
+In testing phase, this is when the testing can be more focused on UX, focusing on user journeys through the app. Test frameworks such as Playwright, Espresso and XCUTest have plugins to run screen reader tests, and other UI checks. Conduct manual testing with assistive technologies such as screen readers (e.g., VoiceOver or NVDA), and voice recognition software. If possible, involve users with disabilities in usability testing to identify practical issues and gather feedback.
 
 ## Deployment
 
