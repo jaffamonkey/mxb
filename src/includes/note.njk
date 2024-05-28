@@ -6,10 +6,10 @@
     {%- set tags = note.data.tags -%}
 {% endif %}
 
-{%- set webmentionUrl -%}{{ note.url | url | absoluteUrl(site.url) }}{%- endset -%}
+{# {%- set webmentionUrl -%}{{ note.url | url | absoluteUrl(site.url) }}{%- endset -%}
 {%- set mentionCount = webmentions.children | webmentionCountByType(webmentionUrl, "in-reply-to", "mention-of") -%}
 {%- set likeCount = webmentions.children | webmentionCountByType(webmentionUrl, "like-of") -%}
-{%- set repostCount = webmentions.children | webmentionCountByType(webmentionUrl, "repost-of") -%}
+{%- set repostCount = webmentions.children | webmentionCountByType(webmentionUrl, "repost-of") -%} #}
 
 <div class="note {% if isDetailView %}note--detail{% endif %} h-entry">
     <div class="note__main">
@@ -44,7 +44,7 @@
             </div>
         </div>
     </div>
-    <div class="note__footer">
+    {# <div class="note__footer">
         <ul class="note__stats">
             <li class="note__stats__item note__stats__item--mentions" title="{{ mentionCount }} mentions">
                 {% icon "message", useInlineIcons %}{{ mentionCount }}
@@ -66,9 +66,9 @@
     <div class="note__webmentions">
         {% include 'webmentions.njk' %}       
     </div>
-    {% else %}
+    {% else %} #}
     <a href="{{ note.url }}" class="note__link">
         <span class="sr-only">View Note</span>
     </a>
-    {% endif %}
+    {# {% endif %} #}
 </div>
