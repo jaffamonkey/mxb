@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "default",
+        "id": "beach",
         "name": "Koopa Beach",
         "colors": {
             "primary": "#ff9d00",
@@ -84,7 +84,7 @@
         }
     },
     {
-        "id": "yoshi",
+        "id": "default",
         "name": "Yoshi Valley",
         "colors": {
             "primary": "#99C221",
