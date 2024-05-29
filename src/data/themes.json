@@ -1,6 +1,6 @@
 [
     {
-        "id": "default",
+        "id": "classic",
         "name": "Classic",
         "colors": {
             "primary": "#ff335f",
@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "beach",
+        "id": "default",
         "name": "Koopa Beach",
         "colors": {
             "primary": "#ff9d00",
