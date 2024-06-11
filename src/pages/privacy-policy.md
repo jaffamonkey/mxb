@@ -12,8 +12,7 @@ Basically, it's just a free piece of content, no strings attached.
 ## Secure Data Transfer
 
 This website transmits itself using HTTPS, encrypting all data between the browser and the server. Your network provider may still be able to see that you are loading files from this site, but not their content. This also protects you from third parties intercepting data e.g. while browsing on public WiFi, or network providers injecting ads into this site.
-
-## Webmentions
+<!-- ## Webmentions
 
 This website implements [Webmentions](https://en.wikipedia.org/wiki/Webmention), a form of content interaction on the web. Other systems may send webmentions to this site, whenever a resource (like an article or note) on this website is linked to. This includes:
 
@@ -30,7 +29,7 @@ Incoming webmentions are handled as a request to comment on a piece of content, 
 
 The processing of incoming Webmentions is based on the legitimate interest to enable interaction with the readers of this website (Art. 6(1) lit. f GDPR), following the design intention of the Webmention protocol.
 
-If your personal data was published in a webmention, you may at any time demand the removal of it from this website. To do so, please notify me and point me to the entry in question.
+If your personal data was published in a webmention, you may at any time demand the removal of it from this website. To do so, please notify me and point me to the entry in question. -->
 
 ## Responsible Data Controller
 
