@@ -30,7 +30,9 @@ Tools like Axe, WAVE, and Lighthouse help  identify accessibility issues early i
 
 ## Testing
 
-In testing phase, this is when the testing can be more focused on UX, focusing on user journeys through the app. Test frameworks such as Playwright, Espresso and XCUTest have plugins to run screen reader tests, and other UI checks. Conduct manual testing with assistive technologies such as screen readers (e.g., VoiceOver or NVDA), and voice recognition software. If possible, involve users with disabilities in usability testing to identify practical issues and gather feedback.
+In testing phase, this is when the testing can be more focused on UX, focusing on user journeys through the app. Test frameworks such as Playwright, Espresso and XCUTest have plugins to run screen reader tests, and other UI checks. 
+
+Test with assistive technologies such as screen readers (e.g., VoiceOver or NVDA), and voice recognition software. If possible, involve users with disabilities in usability testing to identify practical issues and gather feedback.
 
 ## Deployment
 
