@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "beach",
+        "id": "default",
         "name": "Koopa Beach",
         "colors": {
             "primary": "#ff9d00",
@@ -112,7 +112,7 @@
         }
     },
     {
-        "id": "default",
+        "id": "lobster",
         "name": "Lobster Life",
         "colors": {
             "primary": "#b62b2b",
