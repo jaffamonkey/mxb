@@ -1,12 +1,12 @@
 :root {
-    --color-bg: #F6F6EF;
-    --color-bg-offset: #F8F8EC;
-    --color-text: #000000;
-    --color-text-offset: #828282;
-    --color-border: #FF6600;
-    --color-primary: #FF6600;
-    --color-primary-offset: #F56200;
-    --color-secondary: #FF6600;
+    --color-bg: #fcddd4;
+    --color-bg-offset: #ffb9ad;
+    --color-text: #4b1313;
+    --color-text-offset: #146caa;
+    --color-border: #f1797c;
+    --color-primary: #b62b2b;
+    --color-primary-offset: #FF0030;
+    --color-secondary: #fb9f13;
 }
 
 @media(prefers-color-scheme: dark) {
@@ -111,7 +111,7 @@
     --color-secondary: #01c317;
 }
 
-[data-theme='lobster'] {
+[data-theme='default'] {
     --color-bg: #fcddd4;
     --color-bg-offset: #ffb9ad;
     --color-text: #4b1313;
@@ -122,7 +122,7 @@
     --color-secondary: #fb9f13;
 }
 
-[data-theme='default'] {
+[data-theme='hacker'] {
     --color-bg: #F6F6EF;
     --color-bg-offset: #F8F8EC;
     --color-text: #000000;
