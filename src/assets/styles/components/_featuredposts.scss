@@ -68,7 +68,7 @@
         @include coverall;
         overflow: hidden;
         border-radius: 0.5rem;
-        color: #072127;
+        color: #fff;
         padding: 1rem;
         background-image: var(--gradient-full);
     }
@@ -77,8 +77,7 @@
         @include stretched-link;
         @include hyphenate;
         display: block;
-        color: #0a2e36;
-        // color: var(--text-color) !important;
+        color: var(--text-color) !important;
     }
 
     &__title {
