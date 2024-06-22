@@ -168,6 +168,3 @@
 [data-theme='hackernews'] .featuredpost__title::after,
 [data-theme='hackernews'] .postlist__link::after,
 [data-theme='hackernews'] .post__title::after,
-[data-theme='hackernews'] .otherposts__title::after {
-    content: " considered harmful";
-}
