@@ -152,8 +152,7 @@
 }
 
 [data-theme='lobster'] a,
-[data-theme='lobster'] button {
-    cursor: url("/assets/images/lobster-cursor-hover.png"), auto;
+
 }
 
 /* HN Theme Extra Styles */
