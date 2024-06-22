@@ -1,12 +1,12 @@
 :root {
-    --color-bg: #fafbf5;
-    --color-bg-offset: #f2ede9;
-    --color-text: #41474C;
-    --color-text-offset: #757D84;
-    --color-border: #e8e0d9;
-    --color-primary: #99C221;
-    --color-primary-offset: #6E910A;
-    --color-secondary: #E55812;
+    --color-bg: #fffffe;
+    --color-bg-offset: #e3f6f5;
+    --color-text: #272343;
+    --color-text-offset: #2d334a;
+    --color-border: #e3f6f5;
+    --color-primary: #ff9d00;
+    --color-primary-offset: #ffca00;
+    --color-secondary: #bae8e8;
 }
 
 @media(prefers-color-scheme: dark) {
@@ -45,7 +45,7 @@
     --color-secondary: #43a9a3;
 }
 
-[data-theme='beach'] {
+[data-theme='default'] {
     --color-bg: #fffffe;
     --color-bg-offset: #e3f6f5;
     --color-text: #272343;
@@ -89,7 +89,7 @@
     --color-secondary: #2cb67d;
 }
 
-[data-theme='default'] {
+[data-theme='yoshi'] {
     --color-bg: #fafbf5;
     --color-bg-offset: #f2ede9;
     --color-text: #41474C;
@@ -148,7 +148,7 @@
 
 [data-theme='lobster'] {
     --font-family-display: "Lobster", cursive;
-    cursor: url("/assets/images/lobster-cursor.png"), auto;
+    
 }
 
 [data-theme='lobster'] a,
