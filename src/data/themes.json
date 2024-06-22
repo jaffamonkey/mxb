@@ -84,7 +84,7 @@
         }
     },
     {
-        "id": "default",
+        "id": "yoshi",
         "name": "Yoshi Valley",
         "colors": {
             "primary": "#99C221",
@@ -112,7 +112,7 @@
         }
     },
     {
-        "id": "lobster",
+        "id": "default",
         "name": "Lobster Life",
         "colors": {
             "primary": "#b62b2b",
