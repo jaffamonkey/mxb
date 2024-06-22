@@ -100,4 +100,19 @@
 <p><a href="https://calendly.com/jaffamonkeyltd/intro-call" class="btn btn--primary" target="_blank" rel="noopener noreferrer">Book a meeting</a></p>
 
             ]]></content>
+        </entry>
+        <entry>
+            <title>Partner with us</title>
+            <link href="https://jaffamonkey.com/services/partner-with-us/"/>
+            <updated>2024-05-22T00:00:00Z</updated>
+            <id>https://jaffamonkey.com/services/partner-with-us/</id>
+            <content type="html"><![CDATA[
+                <blockquote>
+<p>I already provide Accessibility Audit and related services to compliance companies, looking to fill Accessibility requirements in their overall compliance service.<br />
+.</p>
+</blockquote>
+<div class="callout callout--tip"><span class="callout__icon"><svg class="icon icon--lightbulb" role="img" aria-hidden="true" width="24" height="24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/icons.sprite.svg#icon-lightbulb"></use></svg></span><div class="callout__content"><p>I am very flexible, can accommodate tight dealines, and can guarantee a maximum of 3 days lead-time, per platform under test (iOS/Android/Windows/Mac)</p></div></div>
+<p>[View the Accessibility service](https://jaffamonkey.com/services/accessibility-audit/</p>
+
+            ]]></content>
         </entry></feed>
