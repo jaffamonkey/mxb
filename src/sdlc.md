@@ -1,8 +1,10 @@
 # Phases of SDLC and Accessibility
 
-It's easy to get agreement that Accessibility is important, but without embedding checks in the way of working, you will unlikely see a consistant approach. The risk is Accessibility issues will quickly slip into being dealt with in a "fire fighting" manner.
+It's easy to get agreement that Accessibility is important, but without embedding checks in the way of working, you will unlikely see a consistant approach. The risk is that Accessibility issues will quickly slip into being dealt with in a "fire fighting" manner.
 
-In the course of doing Accessibility audits, I i find most issues could have been easily avoided, with some checks added to the SDLC (Software Development Life Cycle). These checks at each phase of development, and will not add much effort of time. A strong reasoning behind adding more checks to the SDLC, so that more time can be invested in covering how accessible the user experience (UX) of an app under test. 
+In the course of doing Accessibility audits, I find most issues could have been easily avoided, with some checks added to the SDLC (Software Development Life Cycle). These checks at each phase of design and development, and will not add much effort or time. A strong reasoning behind adding more checks to the SDLC, so that more time can be invested in covering how accessible the user experience (UX) of an app under test. 
+
+Testing an app for Accessibility can be very time-consuming, if there are numerous minor (avoidable) issues.
 
 ## Planning Stage 
 
@@ -40,10 +42,11 @@ Provide an accessibility statement that outlines the accessibility features of t
 
 ## Maintenance
 
-With checks integrated in your SDLC, it means that in maintenance phase, you already have all checks in places, when any changes occur. Perform regular accessibility audits to ensure that updates and new features continue to meet accessibility standards. Provide channels for easy feedback from users with disabilities, to continuously improve accessibility.
+With checks integrated in your SDLC, it means that in maintenance phase, you already have all checks in places, when any changes occur. Also perform regular accessibility audits to ensure that updates and new features continue to meet accessibility standards, then update your Accessibility statement to match.  Provide channels for easy feedback from users with disabilities, to continuously improve accessibility.
 
 ## Resources
 
 * The [Web Content Accessibility Guidelines (WCAG 2.2)](https://www.w3.org/TR/WCAG22/) provide comprehensive standards for web and mobile app accessibility.
 * For mobile apps, [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/accessibility) and [Android's Accessibility Principles](https://developer.android.com/guide/topics/ui/accessibility), should also be taken into consideration.
+[Guides for developing accessible websites](https://webaim.org/articles/)
 
