@@ -1,12 +1,12 @@
 :root {
-    --color-bg: #fffffe;
-    --color-bg-offset: #e3f6f5;
-    --color-text: #272343;
-    --color-text-offset: #2d334a;
-    --color-border: #e3f6f5;
-    --color-primary: #ff9d00;
-    --color-primary-offset: #ffca00;
-    --color-secondary: #bae8e8;
+    --color-bg: #F6F6EF;
+    --color-bg-offset: #F8F8EC;
+    --color-text: #000000;
+    --color-text-offset: #828282;
+    --color-border: #FF6600;
+    --color-primary: #FF6600;
+    --color-primary-offset: #F56200;
+    --color-secondary: #FF6600;
 }
 
 @media(prefers-color-scheme: dark) {
@@ -45,7 +45,7 @@
     --color-secondary: #43a9a3;
 }
 
-[data-theme='default'] {
+[data-theme='beach'] {
     --color-bg: #fffffe;
     --color-bg-offset: #e3f6f5;
     --color-text: #272343;
@@ -122,7 +122,7 @@
     --color-secondary: #fb9f13;
 }
 
-[data-theme='hackernews'] {
+[data-theme='default'] {
     --color-bg: #F6F6EF;
     --color-bg-offset: #F8F8EC;
     --color-text: #000000;
