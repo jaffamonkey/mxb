@@ -8,9 +8,22 @@
         <name>jaffamonkey</name>
     </author>
     
-    <updated>2024-06-10T11:10:34Z</updated>
+    <updated>2024-06-24T11:10:34Z</updated>
     
     <id>https://jaffamonkey.com/</id>
+        <entry>
+            <title>Accessibility and the SDLC</title>
+            <link href="https://jaffamonkey.com/notes/2024-06-10-accessibility-sdlc/"/>
+            <updated>2024-06-24T11:10:34Z</updated>
+            <id>https://jaffamonkey.com/notes/2024-06-10-accessibility-sdlc/</id>
+            <content type="html"><![CDATA[
+                <blockquote>
+<p>We all agree that Accessibility is important, but without embedding regular checks into your company culture and processes, you run the risk of handling any identified Accessibility issues in a  “fire fighting” manner.</p>
+</blockquote>
+<p><a href="https://www.linkedin.com/pulse/accessibility-pipeline-acorn-compliance-epy5f">Accessibility and the SDLC</a></p>
+
+            ]]></content>
+        </entry>
         <entry>
             <title>Accessibility and mobile app development</title>
             <link href="https://jaffamonkey.com/notes/2024-06-10-appt-guide/"/>
