@@ -44,7 +44,8 @@ The statement must be reviewed at least once a year, even if there have not been
 
 This statement was prepared on 30/10/2023. It was last reviewed on 29/10/2023.
 
-This website was last tested on 29/10/2023 using:
+### This website was last tested on 29/10/2023 using
+
 - Pa11y tools. [Pa11y on Github](https://github.com/pa11y)
 - Screenreader automation. [Guidepup on Github](https://github.com/guidepup)
 - Manual checks on desktop/mobile views.
