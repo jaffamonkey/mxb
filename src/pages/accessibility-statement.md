@@ -4,16 +4,15 @@ permalink: accessibility-statement/index.html
 title: Accessibility statement
 subtitle: Accessibility statement for jaffamonkey.com
 
-
 ## This accessibility statement applies to the jaffamonkey Ltd website
 
 This website is run by jaffamonkey Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to ...
 
-- change colours, contrast levels and fonts using browser or device settings
-- zoom in up to 200% without the text spilling off the screen
-- navigate most of the website using a keyboard or speech recognition software
-- listen to most of the website using a screen reader (including NVDA and VoiceOver)
-- We’ve also made the website text as simple as possible to understand.
+* change colours, contrast levels and fonts using browser or device settings
+* zoom in up to 200% without the text spilling off the screen
+* navigate most of the website using a keyboard or speech recognition software
+* listen to most of the website using a screen reader (including NVDA and VoiceOver)
+* We’ve also made the website text as simple as possible to understand.
 
 ## How accessible this website is
 This site is compliant with WCAG 2.2 Level AA guidelines
@@ -46,6 +45,6 @@ This statement was prepared on 30/10/2023. It was last reviewed on 29/10/2023.
 
 ### This website was last tested on 29/10/2023 using
 
-- Pa11y tools. [Pa11y on Github](https://github.com/pa11y)
-- Screenreader automation. [Guidepup on Github](https://github.com/guidepup)
-- Manual checks on desktop/mobile views.
+* Pa11y tools. [Pa11y on Github](https://github.com/pa11y)
+* Screenreader automation. [Guidepup on Github](https://github.com/guidepup)
+* Manual checks on desktop/mobile views.
