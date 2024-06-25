@@ -5,7 +5,7 @@ title: Accessibility statement
 subtitle: Accessibility statement for jaffamonkey.com
 
 
-> **This accessibility statement applies to jaffamonkey Ltd website.**
+## This accessibility statement applies to the jaffamonkey Ltd website
 
 This website is run by jaffamonkey Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
