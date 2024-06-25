@@ -3,6 +3,7 @@ layout: page
 permalink: accessibility-statement/index.html
 title: Accessibility statement
 subtitle: Accessibility statement for jaffamonkey.com
+---
 
 ## This accessibility statement applies to the jaffamonkey Ltd website
 
