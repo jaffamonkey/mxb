@@ -7,7 +7,7 @@ subtitle: Accessibility statement for jaffamonkey.com
 
 ## This accessibility statement applies to the jaffamonkey Ltd website
 
-This website is run by jaffamonkey Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to:
+This website is run by jaffamonkey Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to ...
 
 - change colours, contrast levels and fonts using browser or device settings
 - zoom in up to 200% without the text spilling off the screen
@@ -21,8 +21,7 @@ This site is compliant with WCAG 2.2 Level AA guidelines
 ### Feedback and contact information
 If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact us.
 
-If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille: 
-Email paullittlebury@gmail.com and we’ll consider your request and get back to you in 3 days.
+If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, email paullittlebury@gmail.com and we’ll consider your request and get back to you in 3 days.
 
 ## Enforcement procedure
 
