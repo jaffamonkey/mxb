@@ -112,7 +112,7 @@
         }
     },
     {
-        "id": "default",
+        "id": "lobster",
         "name": "Lobster Life",
         "colors": {
             "primary": "#b62b2b",
@@ -126,7 +126,7 @@
         }
     },
     {
-        "id": "hacker",
+        "id": "default",
         "name": "Hacker News",
         "colors": {
             "primary": "#FF6600",
